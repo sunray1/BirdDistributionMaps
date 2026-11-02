@@ -1,0 +1,2 @@
+"rm","fc","tune.args","auc.train","cbi.train","auc.diff.avg","auc.diff.sd","auc.val.avg","auc.val.sd","cbi.val.avg","cbi.val.sd","or.10p.avg","or.10p.sd","or.mtp.avg","or.mtp.sd","AICc","delta.AICc","w.AIC","ncoef"
+"0.5","LQHP","rm.0.5_fc.LQHP",0.859630434782609,NA,0.139698668921147,0.0938818819676436,0.709819374657978,0.0829547172542155,NA,NA,0.208333333333333,0.315494908100015,0.125,0.159571184626056,NA,NA,NA,53
